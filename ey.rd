@@ -1,6 +1,6 @@
 statefull and stateless
 Vpc?
-subnets in vpc?
+subnets in vpc? 200
 CloudWatch?
 Instance types?
 IAM?
