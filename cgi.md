@@ -65,6 +65,11 @@ $ git status
 On branch main
 Changes to be committed:
 
+## Umask & Chmod:
+
+It too is used to define permissions for files and folders. The difference between umask and chmod is that umask changes the default permissions and thus the permissions for all newly created files and folders, while chmod sets permissions for files and folders that already exist.30 Dec 2020
+
+
     new file:   style.css
 
 Changes not staged for commit:
