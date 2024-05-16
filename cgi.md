@@ -1,6 +1,4 @@
-1.Git stash
-
-2. Hard vs. soft git resets
+ ## Hard vs. soft git resets
 
 The key difference between git reset hard and soft commands is that a soft git reset does not revert staged or working tree files back to a previous state, while the hard git reset does.
 Neither the git reset hard nor soft commands impact untracked files.
@@ -54,7 +52,7 @@ Not demonstrated in this example is that a hard git reset clears the index while
 
 Both the hard and soft git reset commands provide the developer with a way to manipulate their local commit history. The key difference is how these two commands impact the Git index and working 
 
-3. Gt Stash
+## Git Stash
 
 git stash temporarily shelves (or stashes) changes you've made to your working copy so you can work on something else, and then come back and re-apply them later on. Stashing is handy if you need to quickly switch context and work on something else, but you're mid-way through a code change and aren't quite ready to commit.
 
