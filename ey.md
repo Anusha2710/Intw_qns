@@ -1,4 +1,5 @@
 statefull and stateless
+
 Vpc?
 subnets in vpc? 200
 CloudWatch?
